@@ -2,3 +2,5 @@ pandas
 altair
 ipywidgets
 voila
+gspread
+oauth2client
