@@ -4,3 +4,5 @@ ipywidgets
 voila
 gspread
 oauth2client
+requests
+notebook
